@@ -1,1 +1,1 @@
-111CondaError: Run 'conda init' before 'conda activate'
+qa_dataset = datasets.load_dataset("deepmind/narrativeqa", cache_dir='./narrativeqa')
